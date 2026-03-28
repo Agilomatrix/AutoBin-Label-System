@@ -475,7 +475,7 @@ def generate_sticker_labels(excel_file_path, output_pdf_path, status_callback=No
 
 def main():
     st.set_page_config(page_title="AgiloAutoBin Label System", layout="wide")
-    st.title("🏷️ Chakan Bin Label Generator")
+    st.title("🏷️ AgiloAutoBin Label Gnerator")
     st.markdown(
         "<p style='font-size:18px; font-style:italic; margin-top:-10px;'>"
         "Designed and Developed by Agilomatrix</p>", unsafe_allow_html=True
